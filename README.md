@@ -1,4 +1,5 @@
 <h1>MERN Project</h1>
+<p>Web messanger allows user to make registration, authorization and authentication, send personal text messages in real time, create "to-do" lists, serch users by name.</p>
 <p>Used Technologies:</p>
 
 * MERN: MongoDB, ExpressJS, ReactJS, NodeJS.
